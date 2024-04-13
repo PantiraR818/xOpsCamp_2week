@@ -6,4 +6,5 @@
 * RAID controller
 * management
 * communication
-* HBA - host bus adapter
+* HBA - host bus adapte
+*
